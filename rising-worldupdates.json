@@ -3,10 +3,12 @@
         "UpdateStageName": "Download server",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "339010 -beta unity",
-        "UpdateSourceArgs": "339010",
+        "UpdateSourceData": "339010",
+        "UpdateSourceArgs": "324080",
+        "UpdateSourceVersion": "{{unity}}",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionValue": "",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
