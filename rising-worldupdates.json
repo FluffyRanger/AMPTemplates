@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Rising World Server Download",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "339010",
+        "UpdateSourceArgs": "339010",
+        "UpdateSourceVersion": "unity",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

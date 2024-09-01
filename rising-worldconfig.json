@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "Server name (shows up in server list)",
+        "Keywords": "server,name",
+        "FieldName": "Server_Name=",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Server_Name=",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "Default Rising World Server",
+        "Placeholder": "Default Rising World Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Admins",
+        "Category": "Server Settings",
+        "Description": "UIDs of server admins (separated by semicolon)",
+        "Keywords": "server,admins",
+        "FieldName": "Server_Admins=",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Server_Admins=",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
